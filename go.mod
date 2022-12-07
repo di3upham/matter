@@ -1,3 +1,3 @@
 module github.com/di3upham/matter
 
-go 1.17
+go 1.18
